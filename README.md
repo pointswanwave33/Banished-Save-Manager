@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Banished-Save-Manager` · Updated: 2026-10-07
+`Banished-Save-Manager` · Updated: 2026-10-24
 
 **Tags:** `banished` `save-manager` `city-builder` `survival` `simulation`
